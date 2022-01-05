@@ -25,6 +25,7 @@ The PCB and schematics are licensed under the TAPR Open Hardware License ([www.t
 ## Credits
 
 - [@N-SPC700](https://github.com/N-SPC700) for suggesting this idea
+- [@Lockster-Inc](https://github.com/Lockster-Inc) for the wonderful silkscreen art
 - Special thanks to the NESDEV community, this project wouldn't have been possible without their extensive help and wiki.
 
 ## Support
