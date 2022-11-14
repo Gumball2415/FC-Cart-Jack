@@ -13,14 +13,14 @@ Upcoming!
 Note that this project is optimized for JLCPCB manufacturing, so you may have to modify the gerber export, remove the "JLCJLCJLCJLC" silkscreen text, etc.
 
 - 2 layers
-- 91.28mm x 58.34mm
+- 95.885mm x 68.580mm
 - 1.2mm thickness
 - ENIG-RoHS surface finish recommended; Gold fingers optional
-- Light silkscreen, dark soldermask
+- dark silkscreen, light soldermask
 
 ## License
 
-The PCB and schematics are licensed under the TAPR Open Hardware License ([www.tapr.org/OHL](http://www.tapr.org/OHL)). © Persune 2021
+The PCB and schematics are licensed under the TAPR Open Hardware License ([www.tapr.org/OHL](http://www.tapr.org/OHL)). © Persune 2022
 
 ## Credits
 
