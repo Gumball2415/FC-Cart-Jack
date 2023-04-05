@@ -31,4 +31,4 @@ The PCB and schematics are licensed under the TAPR Open Hardware License ([www.t
 
 ## Support
 
-Support me on [Ko-Fi](https://ko-fi.com/persune) to help me afford hardware development equipment and further improve this project!
+If you enjoy this project or find it helpful, please support me on [Ko-Fi](https://ko-fi.com/persune) or [Patreon](https://www.patreon.com/persune)!
