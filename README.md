@@ -20,7 +20,7 @@ Note that this project is optimized for JLCPCB manufacturing, so you may have to
 
 ## License
 
-The PCB and schematics are licensed under the TAPR Open Hardware License ([www.tapr.org/OHL](http://www.tapr.org/OHL)). © Persune 2022
+The PCB and schematics are licensed under the [TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/). © Persune 2022
 
 ## Credits
 
